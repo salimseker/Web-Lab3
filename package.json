@@ -1,0 +1,12 @@
+{
+  "name": "university-course-management",
+  "version": "1.0.0",
+  "description": "CMP309 Assignment 3",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Salim Seker",
+  "license": "ISC"
+}
